@@ -40,7 +40,7 @@ const ProductPage = (props) => {
                             style={{ display: 'block' }}
                             href={banner.navigateTo}
                         >
-                            <img src={banner.img} alt="" />
+                            <img src={banners.image} alt="" />
                         </a>
                     )
                 }
